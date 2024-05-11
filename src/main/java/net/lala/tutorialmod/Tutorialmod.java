@@ -11,7 +11,7 @@ public class Tutorialmod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-     very important
+     "not important? T~T"
 
 		LOGGER.info("Hello Fabric world!");
 	}
